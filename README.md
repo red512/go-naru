@@ -25,5 +25,15 @@ naru server
 naru sendDataToMongo
 ``` 
 
-
+Directories:
+```
+.
+├── build
+├── cmd
+├── internal
+├── models
+├── pkg
+├── utils
+└── web
+```
 Please note that this is a demo/alpha version and more features will be added in the future.
