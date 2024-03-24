@@ -8,7 +8,6 @@ Before running Go-Naru, make sure that you have the following prerequisites inst
 
 ```
 kubectl
-kubectx
 ```
 
 Then, clone the repository and run go run main.go to start the server.
